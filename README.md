@@ -1,7 +1,7 @@
 # Earthquakes
 ### Visualizing correlations between drilling operations and seismicity.
 
-![USGS example hazard map](https://github.com/aaronzira/earthquakes/blob/master/hazardmap.png)
+<img src="https://github.com/aaronzira/earthquakes/blob/master/hazardmap.png" alt="USGS example hazard map" title="USGS example hazard map" style="width: 600px;"/>
 
 Written in Python 2.7 for compatibility with Apache Spark.
 
